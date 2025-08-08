@@ -1,0 +1,2 @@
+DATABASE_URL="postgresql://postgres:postgres@localhost:5443/postly-cms"
+GITHUB_TOKEN=your_github_token_here
